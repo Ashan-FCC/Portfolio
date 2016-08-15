@@ -739,4 +739,7 @@ header .intro-text {
 .timeline>li.timeline-inverted>.timeline-panel {
 	padding: 10px 100px 20px 20px;
 }
+.interests {
+	margin-top : 10px;
+}
 }
