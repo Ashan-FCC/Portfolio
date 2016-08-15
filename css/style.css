@@ -742,4 +742,8 @@ header .intro-text {
 .interests {
 	margin-top : 10px;
 }
+
+.intro-text {
+	color : black;
+}
 }
